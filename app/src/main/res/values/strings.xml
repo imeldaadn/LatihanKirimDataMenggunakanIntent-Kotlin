@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KirimDataMenggunakanIntent</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nama_panggilan">Nama Panggilan</string>
+    <string name="npm">NPM</string>
+    <string name="alamat">Alamat</string>
+    <string name="move_with_data">Next</string>
+</resources>
